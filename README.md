@@ -45,8 +45,8 @@ Showing the list of available products with their prices.
 Running the report generation feature.
 
 *4. Report Output File*
-![Report Content](images/report-content.png)
-*The generated report.txt file containing the statistical summary (Total, Average, Max, Min). This proves the program successfully writes data to external files.*
+![Report Content](images/report-content.jpg)
+*The generated report.txt file containing the statistical summary.*
 
 ## 🚀 How to Run
 1. Ensure you have Python installed (version 3.x).
