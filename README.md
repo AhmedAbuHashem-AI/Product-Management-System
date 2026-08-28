@@ -24,6 +24,26 @@ A powerful, menu-driven Python application for managing product inventories. Thi
 - *Functional Logic*: Lambda functions for sorting, loops, and conditionals.
 - *Code Organization*: Cleanly structured with if __name__ == "__main__" guard.
 
+## 📸 Screenshots
+
+Here is a quick tour of the application in action:
+
+*1. Main Menu*
+![Main Menu](images/1-menu.png)
+The interactive terminal menu with all 13 options.
+
+*2. Displaying Products*
+![Products List](images/2-products.png)
+Showing the list of available products with their prices.
+
+*3. Generating the Report*
+![Creating Report](images/3-create-report.png)
+Running the report generation feature.
+
+*4. Report Output File*
+![Report Content](images/4-report-content.png)
+*The generated report.txt file containing the statistical summary (Total, Average, Max, Min). This proves the program successfully writes data to external files.*
+
 ## 🚀 How to Run
 1. Ensure you have Python installed (version 3.x).
 2. Save this code as main.py in a folder.
