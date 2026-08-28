@@ -33,11 +33,11 @@ Showing the list of available products with their prices.
 Here is a quick tour of the application in action:
 
 *1. Main Menu*
-![Main Menu](images/menu.png.jpg)
+![Main Menu](images/products.png.jpg)
 The interactive terminal menu with all 13 options.
 
 *2. Displaying Products*
-![Products List](images/products.png.jpg)
+![Products List](images/menu.png.jpg)
 Showing the list of available products with their prices.
 
 *3. Generating the Report*
