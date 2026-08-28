@@ -24,10 +24,6 @@ A powerful, menu-driven Python application for managing product inventories. Thi
 - *Functional Logic*: Lambda functions for sorting, loops, and conditionals.
 - *Code Organization*: Cleanly structured with if __name__ == "__main__" guard.
 
-
-![Products List](images/products.png.jpg)
-Showing the list of available products with their prices.
-
 ## 📸 Screenshots
 
 Here is a quick tour of the application in action:
