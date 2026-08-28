@@ -25,7 +25,7 @@ A powerful, menu-driven Python application for managing product inventories. Thi
 - *Code Organization*: Cleanly structured with if __name__ == "__main__" guard.
 
 
-![Products List](images/2-products.png)
+![Products List](images/products.png.jpg)
 Showing the list of available products with their prices.
 
 ## 📸 Screenshots
