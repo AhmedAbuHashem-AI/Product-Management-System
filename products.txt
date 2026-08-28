@@ -1,0 +1,10 @@
+Telefphone,500
+Phone,1500
+Tablet,2000
+TV,4000
+Mouse,300
+Computer,1000
+Playstation,200
+Mobile,2500
+Watch,900
+Laptop,3000
